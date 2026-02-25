@@ -1,4 +1,3 @@
-Gemini said
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome%20to%20Deva's%20Repository&fontSize=60&animation=twinkling&fontAlignY=38" width="100%" alt="My Profile Banner">
 </p>
