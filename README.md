@@ -1,22 +1,59 @@
-<h1 align="center">Hi 👋, I'm Deva Nandan JS</h1>
-<h3 align="center">A passionate ML developer from India</h3>
-
-- 🔭 I’m currently working on *Drug QA attention model*
-
-- 🌱 I’m currently learning *Deep Learning and its frameworks*
-
-- 📫 How to reach me *devanandanjs2004@gmail.com*
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/deva-nandan-js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deva-nandan-js" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/devanandanjs2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="devanandanjs2004" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/devanandanjs2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devanandanjs2004" height="30" width="40" /></a>
+Gemini said
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome%20to%20Deva's%20Repository&fontSize=60&animation=twinkling&fontAlignY=38" width="100%" alt="My Profile Banner">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+Heya ! Feel free to scramble through my profile, or maybe try figuring out why my neural networks are outputting garbage. Let me give you a tour myself hehehe. 😉
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devanandanjs&show_icons=true&locale=en" alt="devanandanjs" /></p>
+Let’s start with a small introduction. I'm Deva Nandan JS, but you can just call me Deva. I'm currently surviving as an AI Intern at Icore Pioneer Business Solutions  and navigating the chaotic dual-boot life between Ubuntu and Windows. I love MMA (which perfectly mirrors the feeling of debugging PyTorch tensors), Sports Analytics, and over-engineering solutions because the trade-off between complexity and looking cool is highly skewed towards looking cool.
++1
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devanandanjs&" alt="devanandanjs" /></p>
+I am pursuing an Integrated M. Tech in Artificial Intelligence & Machine Learning at VIT Bhopal , expected to graduate in May 2026. If my loss functions converge, I'll be looking for full-time opportunities!
++1
+
+As an AI/ML practitioner, I focus on building robust architectures that don't just work on my machine. I'm deep into Computer Vision, NLP, and MLOps (give me Docker, Kubernetes, Prometheus, and Grafana any day). Whether it's estimating the speed of a tennis ball, mapping football pass networks, or architecting a pipeline, I always prioritize the trade-offs between inference speed and accuracy.
+
+Don’t just take my word for it – check out some of my repos where I let the GPUs do the heavy lifting:
+
+⚽🎾 Sports Analytics Ecosystem Contributing to a B2C sports analytics and coaching platform. Because screaming at the screen isn't enough, I use YOLOv11s-pose model weights and RNN/LSTM with Dynamic Time Warping to scientifically prove the referee is wrong. Optimized inference performance through batch processing and ONNX Runtime to severely reduce processing time.
++1
+
+🫁 VolTrac Developing an open-source breath analysis device to detect disease biomarkers using VOC sensors. Hardware meets AI to literally sniff out problems.
+🪄 AI-Powered Virtual Mouse Built a gesture-controlled mouse using OpenCV and MediaPipe. Achieved 95% accuracy at 30+ FPS, allowing me to look like a wizard waving my hands at the webcam. Applied Kalman filtering and exponential moving average for cursor smoothing. Trade-off: High CPU usage, but zero need for a physical mouse pad.
++2
+
+💊 Biomedical QA System Fine-tuned a BioBERT transformer model using PyTorch to extract drug information from medical literature. Achieved an 87% F1 score. Built a preprocessing pipeline for 12K+ biomedical QA pairs to improve performance by 23% over the baseline.
++1
+
+🤬 YouTube Sentiment Analytics Platform
+Built a pipeline processing 50K+ YouTube comments via API to judge the internet at scale. Trained an ensemble classifier (Random Forest, SVM, Naive Bayes) achieving 92% accuracy. Engineered a hybrid feature extraction combining TF-IDF and Word2Vec to bump performance by 15%.
++1
+
+🔬 Computational Prognostics Thesis
+Working on "Computational Prognostics in Pathology: WSI-Based Modeling Using Foundation Models and Multiple Instance Learning." It's as complex as it sounds, and I love it.
+
+💻 Medical Document Automation Built an automated medical document processing system using Tesseract OCR and spaCy NLP with 200+ custom patterns to increase HCC coding accuracy by 75%. Refactored the ML pipeline to achieve a 25% efficiency gain and 18% faster runtime.
++1
+
+🛠️ Tech Stack & Tools
+
+Languages: Python, Java, SQL 
+
+
+AI & ML: PyTorch, TensorFlow, Scikit-learn, OpenCV, YOLO, Transformers, BioBERT, spaCy 
+
+
+Tools: Docker, Kubernetes, Git, ONNX Runtime, Hugging Face, Roboflow, React, Flask 
+
+Let's Connect (or argue about the best loss function):
+
+Email: devanandanjs2004@gmail.com 
+
+
+LinkedIn: linkedin.com/in/deva-nandan-js 
+
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggCGvnP1K/giphy.gif" width="400" alt="Coding Cat Gif"/>
+</p>
+
+Would you like me to write a quick Python script to automatically update this README with your latest HackerRank solutions log?
