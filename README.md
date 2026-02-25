@@ -2,22 +2,18 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome%20to%20Deva's%20Repository&fontSize=60&animation=twinkling&fontAlignY=38" width="100%" alt="My Profile Banner">
 </p>
 
-Heya ! Feel free to scramble through my profile, or maybe try figuring out why my neural networks are outputting garbage. Let me give you a tour myself hehehe. 😉
+Heya ! Feel free to scramble through my profile, or maybe Let me give you a tour myself hehehe. 😉
 
-Let’s start with a small introduction. I'm Deva Nandan JS, but you can just call me Deva. I'm currently surviving as an AI Intern at Icore Pioneer Business Solutions  and navigating the chaotic dual-boot life between Ubuntu and Windows. I love MMA (which perfectly mirrors the feeling of debugging PyTorch tensors), Sports Analytics, and over-engineering solutions because the trade-off between complexity and looking cool is highly skewed towards looking cool.
+Let’s start with a small introduction. I'm Deva Nandan JS, but you can just call me Deva. I am pursuing an Integrated M. Tech in Artificial Intelligence & Machine Learning at VIT Bhopal , expected to graduate in May 2026. If my loss functions converge, I'll be looking for full-time opportunities!
 +1
 
-I am pursuing an Integrated M. Tech in Artificial Intelligence & Machine Learning at VIT Bhopal , expected to graduate in May 2026. If my loss functions converge, I'll be looking for full-time opportunities!
-+1
-
-As an AI/ML practitioner, I focus on building robust architectures that don't just work on my machine. I'm deep into Computer Vision, NLP, and MLOps (give me Docker, Kubernetes, Prometheus, and Grafana any day). Whether it's estimating the speed of a tennis ball, mapping football pass networks, or architecting a pipeline, I always prioritize the trade-offs between inference speed and accuracy.
+As an AI/ML practitioner, I focus on building robust architectures that don't just work on my machine. I'm deep into Computer Vision, NLP, and Transformers. Whether it's estimating the speed of a tennis ball, building neural networks from scratch, or architecting a pipeline, I always prioritize the trade-offs between inference speed and accuracy.
 
 Don’t just take my word for it – check out some of my repos where I let the GPUs do the heavy lifting:
 
 ⚽🎾 Sports Analytics Ecosystem Contributing to a B2C sports analytics and coaching platform. Because screaming at the screen isn't enough, I use YOLOv11s-pose model weights and RNN/LSTM with Dynamic Time Warping to scientifically prove the referee is wrong. Optimized inference performance through batch processing and ONNX Runtime to severely reduce processing time.
 +1
 
-🫁 VolTrac Developing an open-source breath analysis device to detect disease biomarkers using VOC sensors. Hardware meets AI to literally sniff out problems.
 🪄 AI-Powered Virtual Mouse Built a gesture-controlled mouse using OpenCV and MediaPipe. Achieved 95% accuracy at 30+ FPS, allowing me to look like a wizard waving my hands at the webcam. Applied Kalman filtering and exponential moving average for cursor smoothing. Trade-off: High CPU usage, but zero need for a physical mouse pad.
 +2
 
@@ -42,7 +38,7 @@ Languages: Python, Java, SQL
 AI & ML: PyTorch, TensorFlow, Scikit-learn, OpenCV, YOLO, Transformers, BioBERT, spaCy 
 
 
-Tools: Docker, Kubernetes, Git, ONNX Runtime, Hugging Face, Roboflow, React, Flask 
+Tools: Docker, Git, ONNX Runtime, Hugging Face, Roboflow, React, Flask 
 
 Let's Connect (or argue about the best loss function):
 
@@ -55,4 +51,3 @@ LinkedIn: linkedin.com/in/deva-nandan-js
 <img src="https://media.giphy.com/media/qgQUggCGvnP1K/giphy.gif" width="400" alt="Coding Cat Gif"/>
 </p>
 
-Would you like me to write a quick Python script to automatically update this README with your latest HackerRank solutions log?
