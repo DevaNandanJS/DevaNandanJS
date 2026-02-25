@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=800&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Welcome+to+Deva's+Repository;Training+Neural+Networks...;Optimizing+Loss+Functions...;Debugging+PyTorch+Tensors..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=800&size=28&pause=1000&color=F711A6;00F0FF;00FF00&background=0a0a0a&center=true&vCenter=true&width=800&height=150&lines=Welcome+to+Deva's+Repository;Training+Neural+Networks...;Optimizing+Loss+Functions...;Debugging+PyTorch+Tensors..." alt="Typing SVG" />
 </p>
 
 Heya ! Feel free to scramble through my profile, or maybe Let me give you a tour myself hehehe. 😉
