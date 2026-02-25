@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF007F,100:00F0FF&height=250&section=header&text=Welcome%20to%20Deva's%20Repo&fontSize=60&fontColor=ffffff&animation=twinkling&desc=Overfitting%20models%20and%20fixing%20bugs&descSize=25&descColor=ffffff" width="100%" alt="Neon Header">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=800&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Welcome+to+Deva's+Repository;Training+Neural+Networks...;Optimizing+Loss+Functions...;Debugging+PyTorch+Tensors..." alt="Typing SVG" />
 </p>
 
 Heya ! Feel free to scramble through my profile, or maybe Let me give you a tour myself hehehe. 😉
