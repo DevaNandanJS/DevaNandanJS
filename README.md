@@ -1,25 +1,48 @@
- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=800&size=28&pause=1000&color=F711A6;00F0FF;00FF00&background=0a0a0a&center=true&vCenter=true&width=800&height=150&lines=Welcome+to+Deva's+GitHub;Training+Neural+Networks...;Optimizing+Loss+Functions...;Debugging+PyTorch+Tensors..." alt="Typing SVG" />
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=800&size=28&pause=1000&color=F711A6;00F0FF;00FF00&background=0a0a0a&center=true&vCenter=true&width=800&height=150&lines=Welcome+to+Deva%27s+GitHub;Training+Neural+Networks...;Optimizing+Loss+Functions...;Debugging+PyTorch+Tensors...)
 
 # 💫 About Me:
-Heya ! Feel free to scramble through my profile, or maybe Let me give you a tour myself hehehe. 😉<br><br>Let’s start with a small introduction. I'm Deva Nandan JS, but you can just call me Deva. I am pursuing an Integrated M. Tech in Artificial Intelligence & Machine Learning at VIT Bhopal , expected to graduate in May 2026. If my loss functions converge, I'll be looking for full-time opportunities!<br>As an AI/ML practitioner, I focus on building robust architectures that don't just work on my machine. I'm deep into Computer Vision, NLP, and Transformers. Whether it's estimating the speed of a tennis ball, building neural networks from scratch, or architecting a pipeline.<br><br>Don’t just take my word for it – check out some of my repos where I let the GPUs do the heavy lifting:<br><br>⚽🎾 Sports Analytics Ecosystem Contributing to a B2C sports analytics and coaching platform. I use YOLOv11s-pose model weights and RNN/LSTM with Dynamic Time Warping to scientifically prove the referee is wrong. Optimized inference performance through batch processing and ONNX Runtime to severely reduce processing time.<br><br>🪄 AI-Powered Virtual Mouse Built a gesture-controlled mouse using OpenCV and MediaPipe Achieving 95% accuracy.<br><br>💊 Biomedical QA System Fine-tuned a BioBERT transformer model using PyTorch to extract drug information from medical literature. Achieved high accuracy. Built a preprocessing pipeline for biomedical QA pairs.<br><br>🔬 Computational Prognostics Thesis<br>Working on "Computational Prognostics in Pathology:<br> WSI-Based Modeling Using Foundation Models and Multiple Instance Learning."<br><br>💻 Medical Document Automation Built an automated medical document processing system using Tesseract OCR and spaCy NLP with custom patterns to increase HCC coding accuracy by 75%..<br><br>Email: devanandanjs2004@gmail.com 
 
-![snake gif](https://github.com/DevaNandanJS/DevaNandanJS/blob/output/github-snake-dark.svg)
+Heya ! Feel free to scramble through my profile, or maybe Let me give you a tour myself hehehe. 😉\
+\
+Let’s start with a small introduction. I'm Deva Nandan JS, but you can just call me Deva. I am pursuing an Integrated M. Tech in Artificial Intelligence & Machine Learning at VIT Bhopal , expected to graduate in May 2026. If my loss functions converge, I'll be looking for full-time opportunities!\
+As an AI/ML practitioner, I focus on building robust architectures that don't just work on my machine. I'm deep into Computer Vision, NLP, and Transformers. Whether it's estimating the speed of a tennis ball, building neural networks from scratch, or architecting a pipeline.\
+\
+Don’t just take my word for it – check out some of my repos where I let the GPUs do the heavy lifting:\
+\
+⚽🎾 Sports Analytics Ecosystem Contributing to a B2C sports analytics and coaching platform. I use YOLOv11s-pose model weights and RNN/LSTM with Dynamic Time Warping to scientifically prove the referee is wrong. Optimized inference performance through batch processing and ONNX Runtime to severely reduce processing time.\
+\
+🪄 AI-Powered Virtual Mouse Built a gesture-controlled mouse using OpenCV and MediaPipe Achieving 95% accuracy.\
+\
+💊 Biomedical QA System Fine-tuned a BioBERT transformer model using PyTorch to extract drug information from medical literature. Achieved high accuracy. Built a preprocessing pipeline for biomedical QA pairs.\
+\
+🔬 Computational Prognostics Thesis\
+Working on "Computational Prognostics in Pathology:\
+WSI-Based Modeling Using Foundation Models and Multiple Instance Learning."\
+\
+💻 Medical Document Automation Built an automated medical document processing system using Tesseract OCR and spaCy NLP with custom patterns to increase HCC coding accuracy by 75%..\
+\
+Email: [devanandanjs2004@gmail.com](mailto:devanandanjs2004@gmail.com)
+
+![snake gif](https://raw.githubusercontent.com/DevaNandanJS/DevaNandanJS/output/github-snake-dark.svg)
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/devnnjs/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/deva-nandan-js/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devanandanjs2004@gmail.com) 
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/devnnjs/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/deva-nandan-js/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devanandanjs2004@gmail.com)
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%25white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DevaNandanJS&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DevaNandanJS&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevaNandanJS&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://github-stats-extended.vercel.app/api?username=DevaNandanJS&theme=radical&hide_border=false&include_all_commits=true&count_private=true)\
+![](https://nirzak-streak-stats.vercel.app/?user=DevaNandanJS&theme=radical&hide_border=false)\
+![](https://github-stats-extended.vercel.app/api/top-langs/?username=DevaNandanJS&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DevaNandanJS&icon=0&color=5)](https://visitcount.itsvg.in)
 
+[![](https://visitcount.itsvg.in/api?id=DevaNandanJS&icon=0&color=5)](https://visitcount.itsvg.in)
